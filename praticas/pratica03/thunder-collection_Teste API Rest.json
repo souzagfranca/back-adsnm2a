@@ -1,0 +1,56 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "Teste API Rest",
+    "dateExported": "2024-03-06T00:59:21.289Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "f67c6775-456f-41e3-9a30-6bbfe9cb7dd0",
+            "colId": "4647ec8b-07d1-4f55-9933-33d21cc8f4dd",
+            "containerId": "",
+            "name": "http://localhost:3000/Produtos",
+            "url": "https://dummyjson.com/products/1",
+            "method": "DELETE",
+            "sortNum": 10000,
+            "created": "2024-03-06T00:56:31.782Z",
+            "modified": "2024-03-06T00:56:31.782Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "0b31c38d-7fa4-4367-9f18-70cd080933c0",
+            "colId": "4647ec8b-07d1-4f55-9933-33d21cc8f4dd",
+            "containerId": "",
+            "name": "http://localhost:3000/Produtos",
+            "url": "https://dummyjson.com/products",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2024-03-06T00:56:46.523Z",
+            "modified": "2024-03-06T00:56:46.523Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "a2c42323-6373-4e6d-8a67-656fd0758938",
+            "colId": "4647ec8b-07d1-4f55-9933-33d21cc8f4dd",
+            "containerId": "",
+            "name": "http://localhost:3000/Produtos",
+            "url": "https://dummyjson.com/products/1",
+            "method": "PUT",
+            "sortNum": 30000,
+            "created": "2024-03-06T00:58:16.377Z",
+            "modified": "2024-03-06T00:58:16.377Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"title\": \"iPhone 11\",\n  \"description\": \"Smartphone\",\n  \"price\": 2000.00\n}",
+                "form": []
+            },
+            "tests": []
+        }
+    ]
+}
